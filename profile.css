@@ -1,0 +1,38 @@
+section {
+    height: 850px;
+    padding-bottom: 100px;
+}
+h1{
+font-size: 50px;
+}
+h2{
+font-size: 30px;
+}
+h3{
+font-size: 20px;
+color: tomato;
+}
+.half-width>img{
+	width: 100%;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.text-color{
+	color: orange;
+}
+button{
+	padding: 2%;
+	background-color: orange;
+	color: white;
+	border-style: none;
+	font-size: 20px;
+	border-radius: 7px;
+}
+#footer p{
+	text-align: center;
+	font-size: 15px;
+}
